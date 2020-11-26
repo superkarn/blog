@@ -46,6 +46,15 @@ remote_theme: jekyll/minima
 
 header_pages:
 
+# https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
+navbar-links:
+  Blog: "https://blog.karn.ratana.info/"
+  About Me: "https://karn.ratana.info/aboutme"
+  Career: "https://karn.ratana.info/career"
+  Resume: "https://karn.ratana.info/resume"
+  Contact Me: "https://karn.ratana.info/contactme"
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
