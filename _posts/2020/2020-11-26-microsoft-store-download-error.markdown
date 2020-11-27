@@ -5,7 +5,7 @@ date:   2020-11-26 00:00:00 +0000
 categories: 
 ---
 
-On a Windows 10 computer, when I tried downloading an app from Microsoft Store to a non-C:\ drive, I received an error with the code `0x80070001`.  The following steps resolved the issue for me:
+On a Windows 10 computer, when I tried downloading an app from Microsoft Store to a non-C:\ drive, I received an error with the code `0x80070001`.  After searching, I found this [post](https://gamefaqs.gamespot.com/boards/916373-pc/74384545) with the solution that worked for me.
 
 1. Cancel the download
 1. Redownload to C:\ drive
