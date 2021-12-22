@@ -42,7 +42,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: jekyll/minima@7a326eb6df07ee6ee5305cfc1b28f7092037e67d
+#remote_theme: jekyll/minima@7a326eb6df07ee6ee5305cfc1b28f7092037e67d
 
 header_pages:
 
