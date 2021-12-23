@@ -5,7 +5,7 @@ date:   2020-12-21 00:00:00 +0000
 categories: 
 ---
 
-<img alt="conjunction" src="/assets/2020-12-21-conjunction.jpg" />
+[<img alt="conjunction" src="/assets/2020-12-21-conjunction_tn.jpg" />](/assets/2020-12-21-conjunction.jpg)
 
 <div style="clear: both;"></div>
 

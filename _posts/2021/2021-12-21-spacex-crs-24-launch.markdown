@@ -6,7 +6,7 @@ categories:
 tags: photography
 ---
 
-<img alt="spacex-crs-24" src="/assets/2021-12-21-spacex-crs-24-launch.jpg" />
+[<img alt="spacex-crs-24-launch" src="/assets/2021-12-21-spacex-crs-24-launch_tn.jpg" />](/assets/2021-12-21-spacex-crs-24-launch.jpg)
 
 <div style="clear: both;"></div>
 
