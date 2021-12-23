@@ -23,6 +23,9 @@ tags: photography
 [<img alt="morning-frost" src="/assets/2014-11-20-morning-frost_tn.jpg" />](/assets/2014-11-20-morning-frost.jpg)
 <div style="clear: both;"></div>
 
+[<img alt="leaf" src="/assets/2014-10-26-jax-air-show_tn.jpg" />](/assets/2014-10-26-jax-air-show.jpg)
+<div style="clear: both;"></div>
+
 [<img alt="leaf" src="/assets/2014-10-24-leaf_tn.jpg" />](/assets/2014-10-24-leaf.jpg)
 <div style="clear: both;"></div>
 
