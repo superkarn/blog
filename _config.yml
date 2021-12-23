@@ -28,7 +28,8 @@ url: "https://blog.karn.ratana.info" # the base hostname & protocol for your sit
 
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima@7a326eb6df07ee6ee5305cfc1b28f7092037e67d
 minima:
   skin: solarized
   date_format: "%Y-%m-%d"
@@ -42,7 +43,6 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-#remote_theme: jekyll/minima@7a326eb6df07ee6ee5305cfc1b28f7092037e67d
 
 header_pages:
 
