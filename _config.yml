@@ -37,7 +37,7 @@ minima:
     github: superkarn
     keybase: superkarn
     linkedin: karn-ratana
-    stackoverflow: superkarn
+    stackoverflow: karn-ratana
     twitter: superkarn
 plugins:
   - jekyll-feed
