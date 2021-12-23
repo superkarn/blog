@@ -5,13 +5,13 @@ categories:
 tags: photography
 ---
 
-[<img alt="spacex-crs-24-launch" src="/assets/2021-12-21-spacex-crs-24-launch_tn.jpg" />](/assets/2021-12-21-spacex-crs-24-launch.jpg)
+[<img alt="spacex-crs-24-launch" src="/assets/2021-12-21-spacex-crs-24-launch_tn.jpg" />](/2021/12/21/spacex-crs-24-launch)
 <div style="clear: both;"></div>
 
 [<img alt="full-moon" src="/assets/2021-12-19-full-moon_tn.jpg" />](/assets/2021-12-19-full-moon.jpg)
 <div style="clear: both;"></div>
 
-[<img alt="conjunction" src="/assets/2020-12-21-conjunction_tn.jpg" />](/assets/2020-12-21-conjunction.jpg)
+[<img alt="conjunction" src="/assets/2020-12-21-conjunction_tn.jpg" />](/2020/12/21/the-great-conjunction-of-2020)
 <div style="clear: both;"></div>
 
 [<img alt="seagulls" src="/assets/2021-12-19-seagulls_tn.jpg" />](/assets/2021-12-19-seagulls.jpg)
