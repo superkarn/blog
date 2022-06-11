@@ -5,6 +5,9 @@ categories:
 tags: photography
 ---
 
+[<img alt="grand-canyon-sunset" src="/assets/2022-06-05-grand-canyon-sunset_tn.jpg" />](/2022/06/05/grand-canyon-sunset)
+<div style="clear: both;"></div>
+
 [<img alt="spacex-crs-24-launch" src="/assets/2021-12-21-spacex-crs-24-launch_tn.jpg" />](/2021/12/21/spacex-crs-24-launch)
 <div style="clear: both;"></div>
 
