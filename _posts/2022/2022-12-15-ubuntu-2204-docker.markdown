@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Ubuntu 22.04 and Docker"
+date:   2022-12-15 00:00:00 +0000
+categories: 
+tags: server
+---
+
+<div style="clear: both;"></div>
+
+To install Docker on Ubuntu 22.04, I followed the instruction from DigitalOcean [here](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04).  However, when trying to run `docker run hello-world`, I received the following error:
+
+```
+docker: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?.
+```
+
+This was due to Ubuntu 22.04 having issues with iptables.  To resolve this, I had to [switch it back to legacy version](https://github.com/docker/for-linux/issues/1406#issuecomment-1183487816).
+
+
+1. Update the iptables and set it back to `iptables-legacy`.
+```
+sudo update-alternatives --config iptables
+```
+
+2. Restart docker service.
+```
+sudo service docker start
+```
+
+3. Confirm that docker is running.
+```
+sudo service docker status
+```
