@@ -8,7 +8,7 @@ tags: server
 
 <div style="clear: both;"></div>
 
-To install Docker on Ubuntu 22.04, I followed the instruction from DigitalOcean [here](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04).  However, when trying to run `docker run hello-world`, I received the following error:
+I followed the instruction from DigitalOcean to install [Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04) and [Docker Compose](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-22-04) on Ubuntu 22.04.  However, when trying to run `docker run hello-world`, I received the following error:
 
 ```
 docker: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?.
